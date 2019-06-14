@@ -8,6 +8,10 @@
         "src/resource.js",
         "src/GameConst.js",
         "src/Game.js",
-        "src/scene/MenuScene.js"
+        "src/scene/MenuScene.js",
+        "src/scene/GuideScene.js",
+        "src/scene/GameScene.js",
+        "src/ui/GameGuideUI.js",
+        "src/elements/GameBackground.js"
     ]
 }
